@@ -5,7 +5,6 @@ Miroslava Nedyalkova, Giovanni Russo,Philip Loche, Marco Lattuada
 
 Contents:
 
-The input files for initializing MD simulations are available. There is a packmole script available for assembling the systems: polysterine particles and additives. 
-The .itp files for polysterine particle and MMA (Methyl methacrylate). 
+The input files for the individual molecules and compiled one for initializing MD simulations are available in .pdb format. There is a packmole script available for assembling the systems: polysterine particles and additives. The .itp files for polysterine particle and MMA (Methyl methacrylate). 
 Scripts for the ascpherisity assesment, rdf and calculating the statics of the contantcs between the polysterine core and the additives. 
 The script for ploting the PMF results. 
