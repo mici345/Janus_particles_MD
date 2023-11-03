@@ -1,4 +1,4 @@
-# Janus_particles_MD-
+# Janus_particles_MD
 Project: Revealing the Formation Dynamics of Janus Polymer Particles: Insights from Experiments and Molecular Dynamics
 
 Miroslava Nedyalkova, Giovanni Russo,Philip Loche, Marco Lattuada
